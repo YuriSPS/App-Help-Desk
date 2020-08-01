@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+/* LAYOUT */
+.area-login {
+    padding-top: 30px;
+}
+
+#cabecalho p.p-logo {
+    color: white;
+    margin-top: 10px;
+    font-size: 1.2em;
+}
+
+.caixa {
+    padding-top: 30px;
+}
+
+/* HOME PHP */
+#area-menu {
+    padding-top: 30px;
+}
+
+
+/* CONSULTA CHAMADO PHP */
+
+#area_consultar_chamado {
+    padding-top: 30px;
+}
+
+.card-border {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+}
+
+/* ABRRIR CHAMADO PHP */
+
+#area_chamado {
+    padding-top: 30px;
+}
